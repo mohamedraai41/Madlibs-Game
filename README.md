@@ -1,1 +1,1 @@
-# labmid-game
+# Madlibs Game
